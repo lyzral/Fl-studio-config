@@ -1,42 +1,53 @@
 <a id="readme-top"></a>
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=HYPERPOP%20VOCAL%20CONFIG&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Professional%20FL%20Studio%20Project%20•%20By%20Lyzral&descSize=20&descAlignY=55)](https://github.com/lyzral)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF4E00,100:000000&height=300&section=header&text=FL%20STUDIO%20HYPERPOP&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Official%20Lyzral%20Vocal%20Config&descSize=20&descAlignY=55)](https://github.com/lyzral)
 
-# 🎹 FL-studio-config hyperpop
+<br />
+<div align="center">
+  <a href="https://github.com/lyzral/FL-studio-config-hyperpop">
+    <img src="https://img.icons8.com/color/512/fl-studio.png" alt="FL Studio Logo" width="100" height="100">
+  </a>
 
-![Category](https://img.shields.io/badge/Category-Music_Production-7c60d1?style=for-the-badge)
-![Software](https://img.shields.io/badge/Software-FL_Studio-FF4E00?style=for-the-badge&logo=fl-studio&logoColor=white)
-![Location](https://img.shields.io/badge/Made_in-Lyon%2C_France-blue?style=for-the-badge)
+<h3 align="center">LYZRAL HYPERPOP MAGIC</h3>
 
-Ma configuration de projet FL Studio optimisée pour le traitement vocal **Hyperpop**. Ce pack inclut le fichier projet original et des exemples pour démarrer vos productions avec un son professionnel.
+  <p align="center">
+    Ma configuration de projet FL Studio, optimisée pour des voix hyperpop tour de rours.
+    <br />
+    <a href="https://linktr.ee/Lyzral"><strong>Mon Linktree »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/lyzral/FL-studio-config-hyperpop/issues">Signaler un bug</a>
+    &middot;
+    <a href="https://github.com/lyzral/FL-studio-config-hyperpop/issues">Demander un preset</a>
+  </p>
+</div>
 
 ---
 
-## 📦 Contenu du Pack
-Le dépôt contient les éléments essentiels pour votre session de mixage :
-* 📂 **Config_Hyperpop Vocal By Lyzral.flp** : Le fichier projet FL Studio complet.
-* 🎤 **Main Vocal Dry.wav** : Une piste vocale brute pour tester vos chaînes d'effets.
+## 📂 Contenu Exclusif
+Le pack inclut les fichiers nécessaires pour vos effets et routing :
+* 🎹 **Config_Hyperpop Vocal By Lyzral.flp** : Le projet complet.
+* 🎤 **Main Vocal Dry.wav** : Piste vocale brute de test.
 
-## ⚠️ Plugins Requis
-Pour éviter les erreurs de chargement, assurez-vous que les plugins suivants sont installés sur votre système :
-* **Auto-Tune Evo VST** : Pour l'effet de correction vocale ultra-rapide.
-* **Ozone 9** : Utilisé pour le mastering et la clarté du signal.
-* **SAUSAGE FATTENER** : Pour la saturation et donner du "punch" à vos voix.
+## ⚠️ Plugins Nécessaires
+Pour éviter les erreurs "Missing Plugins", installez ces VST :
+* **Antares Auto-Tune Evo VST** (Le coeur du son Hyperpop)
+* **iZotope Ozone 9** (Pour le mastering)
+* **Sausage Fattener** (Pour la saturation)
 
-## 📬 Contact & Liens
+## 🚀 Installation
+1. Téléchargez le dépôt sur votre PC (**Windows**).
+2. Ouvrez le fichier `.flp` avec **FL Studio 21** ou plus récent.
+3. Si des plugins manquent, vérifiez vos dossiers VST.
+
+## 🔗 Me trouver
 - 💬 **Discord** : `blcdetoi`
 - 🌳 **Linktree** : [Lyzral](https://linktr.ee/Lyzral)
 - 🎵 **TikTok** : [@blcdetoi](https://www.tiktok.com/@blcdetoi)
 
 ---
 
-## 🛠️ Stack Technique
+## 🛠️ Configuration
+![FL Studio](https://img.shields.io/badge/DAW-FL_Studio_21-FF4E00?style=for-the-badge&logo=fl-studio&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![FL Studio](https://img.shields.io/badge/DAW-FL_Studio_21-FF4E00?style=for-the-badge)
-![Vocal](https://img.shields.io/badge/Style-Hyperpop_Vocals-ff00ff?style=for-the-badge)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lyzral&show_icons=true&hide_border=true&count_private=true&bg_color=111%2C082421%2C0D1117&title_color=7c60d1&text_color=f0f0f5&icon_color=319e8d" alt="lyzral's github stats" />
-</div>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+![Location](https://img.shields.io/badge/Location-Lyon%2C_France-blue?style=for
